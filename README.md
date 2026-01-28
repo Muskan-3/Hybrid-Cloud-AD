@@ -1,0 +1,1 @@
+In this experiment, I created an Azure SQL Database using the Azure Portal and tested it by running SQL queries on sample data. This helped me understand how cloud-based databases work and how Azure manages storage, security, and querying, demonstrating the concept of Database as a Service (DBaaS) in real-world cloud computing.
